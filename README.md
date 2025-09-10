@@ -27,6 +27,31 @@ To analyze Netflix’s content library (movies & TV shows) from 1925–2021 in o
 
 <img width="1090" height="568" alt="netflix_dashboard" src="https://github.com/user-attachments/assets/9543b6a1-9953-43d6-9f18-7e1142fe67d5" />
 
+## Project Insights
+1.	Movies dominate the library with 70% share, while TV shows are ~30%.
+2.	Top Genres: International Movies (2.7K), Dramas (2.4K), Comedies (1.6K), International TV Shows (1.3K).
+3.	Most common ratings: TV-MA (3.2K), TV-14 (2.1K), TV-PG (0.86K), R (0.8K).
+4.	Peak release year was 2018 with 1,147 titles released.
+5.	Top contributing countries:
+    1.	United States (3.7K)
+    2.	India (1K)
+    3.	United Kingdom (800+)
+    4.	Canada, France, Japan, Spain, South Korea, Germany, Mexico.
+6.  Content has been rising sharply since 2000, peaked around 2018–2020, then dipped slightly in 2021.
+
+## Final Conclusion
+Netflix’s strategy is heavily focused on movies and adult/young-adult audiences (TV-MA, TV-14).
+  To expand further, Netflix can:
+  •	Invest in family & kids categories (currently low).
+  •	Strengthen regional & international TV shows, which already show strong numbers.
+  •	Leverage India, UK, and Japan markets along with US for future growth.
+
+
+
+
+
+
+
 
 
 
