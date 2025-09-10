@@ -3,7 +3,7 @@
 To analyze Netflix’s content library (movies & TV shows) from 1925–2021 in order to understand       genre distribution, ratings, global reach, and yearly content trends. This helps in identifying audience preferences and growth areas for Netflix.
 
 ## Dataset used
-- <a href="https://github.com/shubham-patip/Netflix-Data-Analysis/blob/main/netflix_raw_data.csv">Dataset</a>
+- <a href="[https://github.com/shubham-patip/Netflix-Data-Analysis/blob/main/netflix_raw_data.csv](https://github.com/shubham-patip/Netflix-Data-Analysis/blob/main/netflix_raw_data.xlsx)">Dataset</a>
 
 ## Questions (KPIs)
 1.	How many titles are available on Netflix?
