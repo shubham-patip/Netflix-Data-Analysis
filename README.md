@@ -1,2 +1,4 @@
-# Netflix-Data-Analysis
-Netflix Data Analysis project (1925–2021) using Excel &amp; Power BI.  This project explores 8,800+ Movies &amp; TV Shows to uncover insights on content distribution, genres, ratings, top countries, and yearly release trends.  An interactive dashboard and project report are included.
+# Netflix-Data-Analysis (Interactive Dashboard creation using MS Excel & Power BI)
+## Project Objective
+To analyze Netflix’s content library (movies & TV shows) from 1925–2021 in order to understand       genre distribution, ratings, global reach, and yearly content trends. This helps in identifying audience preferences and growth areas for Netflix.
+
